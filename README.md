@@ -22,7 +22,7 @@ A practical, day-by-day plan to build a solid foundation in French from scratch.
 
 | Category | Resources |
 | :--- | :--- |
-| **📱 Apps** | Duolingo (Gamification), Memrise (Vocabulary), Anki (Flashcards) |
+| **📱 Apps** | Duolingo (Gamification), Memrise (Vocabulary), Anki (Flashcards), [BrioVocab](https://briovocab.com/) (French vocabulary; [iOS](https://apps.apple.com/app/id6793255945), [Android](https://play.google.com/store/apps/details?id=com.briovocab.googleplay.app)) |
 | **📖 Grammar** | [Lawless French](https://www.lawlessfrench.com/), [Tex's French Grammar](https://laits.utexas.edu/tex/) |
 | **🎧 Listening** | **Podcasts:** *Coffee Break French* (Season 1), *InnerFrench* <br> **News:** [News in Slow French](https://www.newsinslowfrench.com/), [France 24](https://www.france24.com/fr/) |
 | **💬 Speaking** | [HelloTalk](https://www.hellotalk.com/), [Tandem](https://www.tandem.net/) (Language Exchange), [iTalki](https://www.italki.com/) (Tutors) |
